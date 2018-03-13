@@ -21,7 +21,10 @@ body {
     width: 80%;
 }
 
-
+.test
+{
+    color: red;
+}
 
 .destination-container {
     display: flex;
